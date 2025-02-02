@@ -29,7 +29,7 @@ OWNER_NUMBER: process.env.OWNER_NUMBER || "263714757857",
 OWNER_NAME: process.env.OWNER_NAME || "ɢᴏᴊᴏ 🗿",
 // add bot owner name
 
-DESCRIPTION: process.env.DESCRIPTION || "> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ✦ɴᴇxᴜs ᴛᴇᴄʜ✦ ɪɴᴄ*",
+DESCRIPTION: process.env.DESCRIPTION || " enjoy by Gojo X!Tɪ,
 // add bot owner name    
 
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/bddvfr.jpg",
@@ -50,13 +50,13 @@ AUTO_REACT: process.env.AUTO_REACT || "false",
 ANTI_BAD: process.env.ANTI_BAD || "false",
 // false or true for anti bad words
 
-AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
+AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "false",
 // make true or false status auto seen
 
-AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "true",
+AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 // make true if you want auto reply on status 
 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*🎉👀 Status Seen by ᴍᴀʟᴠɪɴ xᴅ 🚀🔥*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*🎉👀 Status Seen by ɢᴏᴊᴏ x!ᴛ",
 // set the auto reply massage on status reply    
 
 MODE: process.env.MODE || "public",
